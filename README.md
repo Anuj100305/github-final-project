@@ -13,4 +13,7 @@ Output
    simple interest = p*t*r
 ```
 
+This line was added to fix a typo for the Git CLI task.
+
+
 _© 2022 XYZ, Inc._
